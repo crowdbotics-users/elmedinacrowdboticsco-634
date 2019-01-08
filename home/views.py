@@ -8,7 +8,6 @@ from home.models import CustomText, HomePage
 def home(request):
     packages = [
 	{'name':'django-scheduler', 'url': 'http://pypi.python.org/pypi/django-scheduler/0.8.8'},
-	{'name':'twilio', 'url': 'http://pypi.python.org/pypi/twilio/6.10.0'},
 	{'name':'djangorestframework', 'url': 'http://pypi.python.org/pypi/djangorestframework/3.7.7'},
 	{'name':'django-bootstrap4', 'url': 'http://pypi.python.org/pypi/django-bootstrap4/0.0.5'},
 	{'name':'django-allauth', 'url': 'http://pypi.python.org/pypi/django-allauth/0.34.0'},
