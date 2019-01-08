@@ -7,6 +7,7 @@ from home.models import CustomText, HomePage
 
 def home(request):
     packages = [
+	{'name':'django-scheduler', 'url': 'http://pypi.python.org/pypi/django-scheduler/0.8.8'},
 	{'name':'pinax-notifications', 'url': 'http://pypi.python.org/pypi/pinax-notifications/5.0.0'},
 	{'name':'twilio', 'url': 'http://pypi.python.org/pypi/twilio/6.10.0'},
 	{'name':'djangorestframework', 'url': 'http://pypi.python.org/pypi/djangorestframework/3.7.7'},
