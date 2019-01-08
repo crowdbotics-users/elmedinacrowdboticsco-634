@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "d9398aa6baa68869cde4edd9eebcc5e722354f25ef3c3c285aaca485dad4d81b"
+            "sha256": "c306bbd35655bb8ec8cb4df128d5a3923d012e4c67b1711ffec5e828edefac1d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -67,14 +67,6 @@
             "index": "pypi",
             "version": "==0.4.4"
         },
-        "django-scheduler": {
-            "hashes": [
-                "sha256:264dbfe50df1116ea418a37516ae53fa4f07032d153e1481ea5e178e96eea4c3",
-                "sha256:7d61c27a13540dc8884cf550cabc212954cf64737d07d5344bcdd6a764b30130"
-            ],
-            "index": "pypi",
-            "version": "==0.8.8"
-        },
         "djangorestframework": {
             "hashes": [
                 "sha256:607865b0bb1598b153793892101d881466bd5a991de12bd6229abb18b1c86136",
@@ -82,13 +74,6 @@
             ],
             "index": "pypi",
             "version": "==3.9.0"
-        },
-        "icalendar": {
-            "hashes": [
-                "sha256:07c2447a1d44cbb27c90b8c6a5c98e890cc1853c6223e2a52195cddec26c6356",
-                "sha256:83f7248b7485ddd29c7d69b706b21c441e34855d9c1d888939fd24aefdd9d19b"
-            ],
-            "version": "==4.0.3"
         },
         "idna": {
             "hashes": [
@@ -140,13 +125,6 @@
             ],
             "index": "pypi",
             "version": "==2.7.3.1"
-        },
-        "python-dateutil": {
-            "hashes": [
-                "sha256:063df5763652e21de43de7d9e00ccf239f953a832941e37be541614732cdfc93",
-                "sha256:88f9287c0174266bb0d8cedd395cfba9c58e87e5ad86b2ce58859bc11be3cf02"
-            ],
-            "version": "==2.7.5"
         },
         "python3-openid": {
             "hashes": [
