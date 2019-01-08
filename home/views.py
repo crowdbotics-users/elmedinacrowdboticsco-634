@@ -7,6 +7,7 @@ from home.models import CustomText, HomePage
 
 def home(request):
     packages = [
+	{'name':'twilio', 'url': 'http://pypi.python.org/pypi/twilio/6.10.0'},
 	{'name':'bokeh', 'url': 'http://pypi.python.org/pypi/bokeh/0.12.13'},
 	{'name':'wq', 'url': 'http://pypi.python.org/pypi/wq/1.0.0'},
 	{'name':'djangorestframework', 'url': 'http://pypi.python.org/pypi/djangorestframework/3.7.7'},
