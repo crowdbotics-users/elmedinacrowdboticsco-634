@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e3aadc171d0af9baa805ec8ee5a2d55a0af5f1b8be5bbf4aa19f7db37cdadb9b"
+            "sha256": "e6c7363ada793101b4a0aa8704d373f8f3670696392fc6aec369b2c5363ea418"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -51,13 +51,6 @@
             ],
             "index": "pypi",
             "version": "==0.38.0"
-        },
-        "django-appconf": {
-            "hashes": [
-                "sha256:6a4d9aea683b4c224d97ab8ee11ad2d29a37072c0c6c509896dd9857466fb261",
-                "sha256:ddab987d14b26731352c01ee69c090a4ebfc9141ed223bef039d79587f22acd9"
-            ],
-            "version": "==1.0.2"
         },
         "django-bootstrap4": {
             "hashes": [
@@ -110,14 +103,6 @@
                 "sha256:8932fb34f7c6a4fc50c9f423b105923ed2e6df091b3c388d182540db02c581a0"
             ],
             "version": "==3.0.0"
-        },
-        "pinax-notifications": {
-            "hashes": [
-                "sha256:27e2cfe99e39f08d67c3a1d7a8e8b7fe09152f7ccd014fcf19c15802b5ff7181",
-                "sha256:476b311eedd7ffdaf65e84c4f78c6fb415e6a98c6341e8073a287a4ebe5b4901"
-            ],
-            "index": "pypi",
-            "version": "==5.0.3"
         },
         "psycopg2": {
             "hashes": [
